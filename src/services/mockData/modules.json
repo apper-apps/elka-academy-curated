@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "name": "Basic Theory",
+    "description": "Foundation knowledge for all new drivers including road rules, signs, and safety principles.",
+    "order": 1,
+    "totalVideos": 3,
+    "estimatedTime": 3000,
+    "id": "basic-theory"
+  },
+  {
+    "Id": 2,
+    "name": "Driving Basics",
+    "description": "Essential practical skills for vehicle operation and basic driving maneuvers.",
+    "order": 2,
+    "totalVideos": 2,
+    "estimatedTime": 2600,
+    "id": "driving-basics"
+  },
+  {
+    "Id": 3,
+    "name": "Basic Maneuvers",
+    "description": "Core driving maneuvers including turns, lane changes, and basic positioning.",
+    "order": 3,
+    "totalVideos": 1,
+    "estimatedTime": 800,
+    "id": "basic-maneuvers"
+  },
+  {
+    "Id": 4,
+    "name": "Parking Skills",
+    "description": "Comprehensive parking techniques for various scenarios and space constraints.",
+    "order": 4,
+    "totalVideos": 2,
+    "estimatedTime": 2400,
+    "id": "parking-skills"
+  },
+  {
+    "Id": 5,
+    "name": "Advanced Driving",
+    "description": "Advanced techniques for highway, night, and challenging weather conditions.",
+    "order": 5,
+    "totalVideos": 3,
+    "estimatedTime": 4700,
+    "id": "advanced-driving"
+  },
+  {
+    "Id": 6,
+    "name": "Emergency Techniques",
+    "description": "Critical skills for emergency situations and crisis management while driving.",
+    "order": 6,
+    "totalVideos": 1,
+    "estimatedTime": 900,
+    "id": "emergency-techniques"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "name": "Theory",
+    "icon": "BookOpen",
+    "color": "#3498DB",
+    "id": "theory"
+  },
+  {
+    "Id": 2,
+    "name": "Practical",
+    "icon": "Car",
+    "color": "#FF6B35",
+    "id": "practical"
+  },
+  {
+    "Id": 3,
+    "name": "Maneuvers",
+    "icon": "RotateCw",
+    "color": "#2ECC71",
+    "id": "maneuvers"
+  },
+  {
+    "Id": 4,
+    "name": "Parking",
+    "icon": "Square",
+    "color": "#9B59B6",
+    "id": "parking"
+  },
+  {
+    "Id": 5,
+    "name": "Highway",
+    "icon": "Zap",
+    "color": "#E67E22",
+    "id": "highway"
+  },
+  {
+    "Id": 6,
+    "name": "Safety",
+    "icon": "Shield",
+    "color": "#E74C3C",
+    "id": "safety"
+  }
+]

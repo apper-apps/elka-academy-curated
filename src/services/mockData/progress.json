@@ -1,0 +1,51 @@
+{
+  "1": {
+    "videoId": "1",
+    "watchedSeconds": 1200,
+    "completed": true,
+    "lastWatched": "2024-01-15T10:30:00Z",
+    "bookmarks": [450, 780]
+  },
+  "2": {
+    "videoId": "2",
+    "watchedSeconds": 650,
+    "completed": false,
+    "lastWatched": "2024-01-14T15:20:00Z",
+    "bookmarks": [300]
+  },
+  "3": {
+    "videoId": "3",
+    "watchedSeconds": 1500,
+    "completed": true,
+    "lastWatched": "2024-01-13T09:45:00Z",
+    "bookmarks": []
+  },
+  "4": {
+    "videoId": "4",
+    "watchedSeconds": 800,
+    "completed": false,
+    "lastWatched": "2024-01-12T14:10:00Z",
+    "bookmarks": [200, 600]
+  },
+  "5": {
+    "videoId": "5",
+    "watchedSeconds": 800,
+    "completed": true,
+    "lastWatched": "2024-01-11T11:15:00Z",
+    "bookmarks": []
+  },
+  "6": {
+    "videoId": "6",
+    "watchedSeconds": 900,
+    "completed": false,
+    "lastWatched": "2024-01-10T16:30:00Z",
+    "bookmarks": [400, 700]
+  },
+  "7": {
+    "videoId": "7",
+    "watchedSeconds": 200,
+    "completed": false,
+    "lastWatched": "2024-01-09T13:25:00Z",
+    "bookmarks": []
+  }
+}
