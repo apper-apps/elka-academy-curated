@@ -98,8 +98,8 @@ const CourseDetail = () => {
     return (
       <Error
         title="Failed to load course"
-        message={error || videosError}
-        onRetry={() => window.location.reload()}
+message={error || videosError}
+        onRetry={() => navigate(0)}
       />
     );
   }

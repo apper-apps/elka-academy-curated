@@ -108,9 +108,9 @@ const Courses = () => {
   if (error || videosError) {
     return (
       <Error
-        title="Failed to load courses"
+title="Failed to load courses"
         message={error || videosError}
-        onRetry={() => window.location.reload()}
+        onRetry={() => navigate(0)}
       />
     );
   }

@@ -142,8 +142,8 @@ const VideoWatch = () => {
     return (
       <Error
         title="Failed to load video"
-        message={error}
-        onRetry={() => window.location.reload()}
+message={error}
+        onRetry={() => navigate(0)}
       />
     );
   }
