@@ -36,7 +36,7 @@
   }
   
   .video-card {
-    @apply card overflow-hidden group cursor-pointer transform hover:scale-[1.02] transition-all duration-200;
+@apply card overflow-hidden cursor-pointer transform hover:scale-[1.02] transition-all duration-200;
   }
   
   .progress-ring {
